@@ -5,7 +5,7 @@ if(scoreDolphins>scoreKoalas){
   console.log ("Delfinii castiga trofeul");
 }
 else {
-  if (scoreDolphins==scoreKoalas){
+  if (scoreDolphins===scoreKoalas){
     console.log ("Ambele echipe castiga trofeul")
   }
  else{
